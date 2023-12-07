@@ -2,5 +2,5 @@
   "jcr:primaryType": "nt:unstructured",
   "logoDark": "/libs/cards/resources/media/lfs/logo.png",
   "logoLight": "/libs/cards/resources/media/lfs/logo_light_bg.png",
-  "sidebarBackground": "/libs/cards/resources/media/default/background.jpg"
+  "sidebarBackground": "/libs/cards/resources/media/lfs/background.jpg"
 }
