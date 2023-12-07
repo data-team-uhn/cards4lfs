@@ -21,15 +21,15 @@
 
   <parent>
     <groupId>io.uhndata.cards</groupId>
-    <artifactId>$PROJECT_SHORTNAME$-parent</artifactId>
+    <artifactId>lfs-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>$PROJECT_SHORTNAME$-docker-packaging</artifactId>
+  <artifactId>lfs-docker-packaging</artifactId>
   <packaging>pom</packaging>
-  <name>$PROJECT_NAME$ - Docker image packaging</name>
+  <name>LFS Data Core - Docker image packaging</name>
   <properties>
-    <docker.name>cards/$PROJECT_CODENAME$:%l</docker.name>
+    <docker.name>cards/cards4lfs:%l</docker.name>
     <cardsBaseImage>cards/cards:${cards.version}</cardsBaseImage>
   </properties>
 

@@ -1,20 +1,15 @@
 {
   "cardsinitial": [
     {
-      "name": "ADDITIONAL_SLING_FEATURES",
-      "value": "$ADDITIONAL_SLING_FEATURES$",
-      "conditions": null
-    },
-    {
       "name": "PROJECT_NAME",
-      "value": "$PROJECT_CODENAME$",
+      "value": "cards4lfs",
       "conditions": null
     }
   ],
   "proxy": [
     {
       "name": "CARDS_APP_NAME",
-      "value": "$PROJECT_NAME$",
+      "value": "LFS Data Core",
       "conditions": null
     }
   ]

@@ -16,11 +16,7 @@
 {
   "bundles":[
     {
-      "id":"${project.groupId}:$PROJECT_SHORTNAME$-backend:${project.version}",
-      "start-order":"26"
-    },
-    {
-      "id":"${project.groupId}:$PROJECT_SHORTNAME$-resources:${project.version}",
+      "id":"${project.groupId}:lfs-resources:${project.version}",
       "start-order":"26"
     }
   ]
